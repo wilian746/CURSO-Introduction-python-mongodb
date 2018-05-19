@@ -1,0 +1,2 @@
+tornado >= 5, < 6
+pymongo >= 3.6, < 4
